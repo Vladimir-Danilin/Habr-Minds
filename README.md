@@ -1,2 +1,8 @@
 # Habr-Minds
-Originally not a big script for parsing habr, which turned into an ML bot for predicting text topics
+This project is a complete pipeline that includes:
+- Web scraping (habr)
+- Machine learning model training (LogisticRegression)
+- Telegram bot integration for real-time predictions
+
+Project Overview
+The goal of this project is to create an intelligent bot for Telegram based on a machine learning model trained on data parsing. The bot can provide useful information based on user data.
